@@ -1,0 +1,22 @@
+.ct{
+  width: 910px;
+  margin: auto;
+}
+.main{
+  float: left;
+  width: 450px;
+  height: 300px;
+  border: 1px solid #ccc;
+}
+.main input{
+  margin: 20px;
+  width: 200px;
+}
+.iframe{
+  float: right;
+}
+iframe{
+  width: 450px;
+  height: 300px;
+  border: 1px dashed #ccc;
+}
